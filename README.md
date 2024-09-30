@@ -3,6 +3,8 @@
 ### Work in progress so the CSS might be a bit funky :D
 
 **Link to site:** http://ec2-18-222-136-197.us-east-2.compute.amazonaws.com/~lilyrsun/module3/module3-group-module3-518223-520806/ 
+**Technologies/Frameworks:** SQL, Apache, Amazon AWS (EC2), SSH
+**Languages:** PHP, HTML, CSS
 
 Info about creative portion
 1. bookmarking - We implemented code that allows users to bookmark a story. This bookmarked story then shows up under the users profile in a section called "your bookmarks". 
