@@ -2,9 +2,9 @@
 # CSE330 - News Site with SQL
 ### Work in progress so the CSS might be a bit funky :D
 
-**Link to site:** http://ec2-18-222-136-197.us-east-2.compute.amazonaws.com/~lilyrsun/module3/module3-group-module3-518223-520806/ 
-**Technologies/Frameworks:** SQL, Apache, Amazon AWS (EC2), SSH <br>
-**Languages:** PHP, HTML, CSS
+**Link to site:** http://ec2-18-222-136-197.us-east-2.compute.amazonaws.com/~lilyrsun/module3/module3-group-module3-518223-520806/ <br><br>
+**Languages:** SQL, PHP, HTML, CSS <br>
+**Technologies/Frameworks:** Apache, Amazon AWS (EC2), SSH <br>
 
 Info about creative portion
 1. bookmarking - We implemented code that allows users to bookmark a story. This bookmarked story then shows up under the users profile in a section called "your bookmarks". 
